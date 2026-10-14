@@ -1,10 +1,10 @@
 ﻿# chess-game
  # ♟️ Chess Game
 
-A chess game inspired by chess.com, built with [tech stack].
+A chess game inspired by chess.com, built with Node.js and Express and MongoDB.
 Screenshot..
 
-https://imagekit.io/dashboard/media-library
+https://imagekit.io/dashboard/media-library/detail/6acf2981ead997d09a954d6f
 
 ## Features
 - Interactive chessboard
