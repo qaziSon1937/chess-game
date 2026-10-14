@@ -3,7 +3,7 @@
 
 A chess game inspired by chess.com, built with [tech stack].
 
-![Screenshot](screenshots/board.png)
+![Screenshot](https://imagekit.io/dashboard/media-library)
 
 ## Features
 - Interactive chessboard
