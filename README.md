@@ -2,8 +2,9 @@
  # ♟️ Chess Game
 
 A chess game inspired by chess.com, built with [tech stack].
+Screenshot..
 
-![Screenshot](https://imagekit.io/dashboard/media-library)
+https://imagekit.io/dashboard/media-library
 
 ## Features
 - Interactive chessboard
